@@ -10,9 +10,10 @@ Untuk kembali ke halaman atau bagian sebelumnya bisa menekan pilihan  bagian yan
 
 <aside>
 ℹ️ Isi dari Bab Perkenalan:
+
 [Dunia Petualangan](buku-pegangan-pemain/pendahuluan/DuniaPetualangan.md)
 
-[Penggunaan Peraturan Ini](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Pendahuluan%20f2eb671a676646769910c48c1e2eaf25/Penggunaan%20Peraturan%20Ini%20f3f7cc467a844182933f485c2c0e945a.md) 
+[Penggunaan Peraturan Ini](buku-pegangan-pemain/pendahuluan/PenggunaanPeraturanIni.md) 
 
 [Cara Bermain](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Pendahuluan%20f2eb671a676646769910c48c1e2eaf25/Cara%20Bermain%20410dc7c8fb7748ccb6222d9b9fe6f69d.md) 
 
