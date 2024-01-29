@@ -2,15 +2,15 @@
 
 Untuk kembali ke halaman atau bagian sebelumnya bisa menekan pilihan  bagian yang ada di kanan atas.
 
-![Untitled](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Untitled.png)
+![Untitled](buku-pegangan-pemain/Untitled.png)
 
 ## Daftar Isi
 
-[Pendahuluan](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Pendahuluan%20f2eb671a676646769910c48c1e2eaf25.md)
+[Pendahuluan](buku-pegangan-pemain/Pendahuluan.md)
 
 <aside>
 ℹ️ Isi dari Bab Perkenalan:
-[Dunia Petualangan](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Pendahuluan%20f2eb671a676646769910c48c1e2eaf25/Dunia%20Petualangan%202f5978f50c474c54915be7e3ebe60b67.md)
+[Dunia Petualangan](buku-pegangan-pemain/pendahuluan/DuniaPetualangan.md)
 
 [Penggunaan Peraturan Ini](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Pendahuluan%20f2eb671a676646769910c48c1e2eaf25/Penggunaan%20Peraturan%20Ini%20f3f7cc467a844182933f485c2c0e945a.md) 
 
