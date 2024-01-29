@@ -8,7 +8,6 @@ Untuk kembali ke halaman atau bagian sebelumnya bisa menekan pilihan  bagian yan
 
 [Pendahuluan](buku-pegangan-pemain/Pendahuluan.md)
 
-<aside>
 ℹ️ Isi dari Bab Perkenalan:
 
 
@@ -20,7 +19,6 @@ Untuk kembali ke halaman atau bagian sebelumnya bisa menekan pilihan  bagian yan
 
 [Petualangan](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Pendahuluan%20f2eb671a676646769910c48c1e2eaf25/Petualangan%208b31e0686285492fbc2534ca6111efb3.md) 
 
-</aside>
 
 [Step-by-Step Karakter](Buku%20Pegangan%20Pemain%209ee9b211b08d4449b3c7697518caa49d/Step-by-Step%20Karakter%20eb423c323674404c870b71cf9bf490b1.md)
 
